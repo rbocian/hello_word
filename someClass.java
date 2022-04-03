@@ -1,0 +1,6 @@
+public class someClass {
+
+    public static void main(String[] args) {
+        //
+    }
+}
